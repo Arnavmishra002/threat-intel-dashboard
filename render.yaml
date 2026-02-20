@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: bot-detection-dashboard
+    env: docker
+    plan: free
+    branch: main
