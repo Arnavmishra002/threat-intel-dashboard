@@ -23,3 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 node-v*
+
+# Never commit runtimes, archives or large binaries
+*.tar.gz
+*.tgz
+*.zip
+node-v*
